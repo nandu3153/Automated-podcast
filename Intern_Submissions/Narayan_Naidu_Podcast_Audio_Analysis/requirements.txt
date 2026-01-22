@@ -5,10 +5,10 @@ torchaudio
 librosa
 soundfile
 matplotlib
+pydub
+noisereduce
 pyannote.audio==3.3.1
-openai-whisper
 sentence-transformers
-scikit-learn
 transformers
 huggingface_hub
 pillow<12
